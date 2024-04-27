@@ -402,6 +402,10 @@ a{
         width: 100%;
         margin-top: 20px
     }
+
+    .course, .brand, .facilities, .feedback{
+        padding: 50px 20px;
+    }
 }
 
 /* Mobile and Tablet display menubar: width < 1024px */
